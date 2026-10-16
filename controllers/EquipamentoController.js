@@ -25,5 +25,6 @@ export class EquipamentoController {
             console.log(inventario);
         }
         console.log("--------------------------------\n");
+        
     }
 }
